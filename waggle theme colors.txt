@@ -1,0 +1,16 @@
+Waggle 
+
+Labrador Lavender #978FC7"
+Beastly Black #404040 
+Bulldog Blue #4381AB
+Terrier Teal #00B5CC
+Waggle White #FFFFFF
+Rottweiler Wine #765D69
+Pug'nacious Pink #F1828D
+Golden Retriever #FAD859
+Griffon Green #7ABC7A
+Red Rover #EC644B
+
+cat - Labrador Lavender #978FC7" 
+dog - Pug'nacious Pink #F1828D
+
